@@ -1,2 +1,2 @@
-First steps in coding with Java
-some tasks for SoftUni 
+# StarProblems
+Problem solvings on tasks marked with star for difficulty
